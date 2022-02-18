@@ -1,4 +1,10 @@
 ---
 label: Portfolio
 hide_body: false
-fields: []
+fields:
+- name: resume
+  type: file
+  config:
+    maxSize: 64
+  label: Resume
+  description: resume Portfolio
